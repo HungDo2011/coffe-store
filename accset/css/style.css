@@ -71,7 +71,8 @@ img {
 }
 
 #head-img {
-    background: url("./accset/img/imghead/head.jpg") center / cover no-repeat;
+    background: url("/accset/img/imghead/head.jpg") center / cover no-repeat;
+    width: 100%;
     min-height: 704px;
     display: flex;
     align-items: center;
