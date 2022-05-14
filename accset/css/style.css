@@ -71,7 +71,7 @@ img {
 }
 
 #head-img {
-    background: url("/accset/img/imghead/head.jpg") top center / cover no-repeat;
+    background: url("https://www.w3schools.com/w3images/coffeehouse.jpg") top center / cover no-repeat;
     width: 100%;
     min-height: 704px;
     display: flex;
